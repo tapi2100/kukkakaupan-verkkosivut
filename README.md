@@ -2,3 +2,4 @@
  Repository kukkakaupan verkkosivujen toteutusta varten
 
 Made by: Nikulainen, Rosenberg, Tolppi
+Project started: 23/3/2024
