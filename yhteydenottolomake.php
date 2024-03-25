@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST["name"];
     $email = $_POST["email"];
     $message = $_POST["message"];
-
+    // Lisätään jotain jotta saadaan taas committia aikaseksi
     // Send email
     $to = "your-email@example.com"; // Replace with your email address
     $subject = "New Message from Kukkakauppa Contact Form";
