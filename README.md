@@ -3,3 +3,5 @@
 
 Made by: Nikulainen, Rosenberg, Tolppi
 Project started: 23/3/2024
+
+Some addition for Lab purposes.
